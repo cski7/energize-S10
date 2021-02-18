@@ -11,3 +11,6 @@ Patriot, father and family lover and protector,
 Earth Energy Thought Universe Visionary. 
 Transparency is truth and Honesty is vitality 
 to the soul.
+
+# yum install @postgresql       
+# installs the default, PostgreSQL 10
