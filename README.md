@@ -3,11 +3,9 @@ General repo for .git education
 
 2021-February 18th
 Greetings to all. Hello World. 
-My name is cski7, I am a woke human being,
+My name is Chris, I am a human being,
 exploring many new worlds I never even knew 
 existed 9 months ago. I feel like a newborn 
 baby in many aspects. I am a proud American 
-Patriot, father and family lover and protector, 
-Earth Energy, Thought Universe Visionary. 
-Transparency is truth and Honesty is vital 
-to the soul.
+Patriot, father and family lover and protector. I love this beautiful planet we live on called Earth. This is my Thought therapy to induce
+Transparency & truth. Honesty is a vital part of living a healthy life, it is pleasing to the soul.
